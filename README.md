@@ -32,10 +32,15 @@ After playing, you want to update your change to everyone just do this <br>
 Type the following instructions consequently :
 
 > git add *
+
+The add command will stage all files changed to git (This is the precondition for commit command)
+
 > git commit -m "Type everything you want here"
+
+The commit command will commit all changes you added to your Git local branch (This is the precondition for push command)
+
 > git push
 
 After push command is fired your changes will be uploaded to remote in a nutshell. Other people just run pull command to keep update with you.
-
 
 ### Authorized by : hoangankaitou
