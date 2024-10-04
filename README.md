@@ -43,4 +43,3 @@ The commit command will commit all changes you added to your Git local branch (T
 
 After push command is fired your changes will be uploaded to remote in a nutshell. Other people just run pull command to keep update with you.
 
-### Authorized by : hoangankaitou
