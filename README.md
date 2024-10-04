@@ -2,7 +2,7 @@
 Below is the instruction for for playing Minecraft alone without your friend but you guys still keep update changes together.
 
 ## Step 1
-Install git, link download for windown here : https://git-scm.com/downloads/win <br>
+Install git, link download for window here : https://git-scm.com/downloads/win <br>
 
 Choose "64-bit Git for Windows Setup." <br>
 
