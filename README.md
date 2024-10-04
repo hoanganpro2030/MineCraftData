@@ -1,5 +1,5 @@
 # Minecraft data
-Below is the instruction for update data while playing Minecraft
+Below is the instruction for for playing Minecraft alone without your friend but you guys still keep update changes together.
 
 ## Step 1
 Install git, link download for windown here : https://git-scm.com/downloads/win <br>
