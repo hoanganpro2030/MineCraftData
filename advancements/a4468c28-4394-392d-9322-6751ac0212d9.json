@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-09-19 22:49:08 +0700",
       "minecraft:snowy_slopes": "2024-09-12 21:42:51 +0700",
+      "minecraft:old_growth_pine_taiga": "2024-10-08 22:47:51 +0700",
       "minecraft:forest": "2024-09-12 21:35:40 +0700",
       "minecraft:taiga": "2024-09-19 21:57:25 +0700",
       "minecraft:deep_ocean": "2024-09-19 22:44:18 +0700",
@@ -16,17 +17,21 @@
       "minecraft:deep_cold_ocean": "2024-09-30 00:28:26 +0700",
       "minecraft:ice_spikes": "2024-09-19 22:19:41 +0700",
       "minecraft:frozen_ocean": "2024-09-19 21:58:41 +0700",
+      "minecraft:eroded_badlands": "2024-10-08 23:42:26 +0700",
+      "minecraft:desert": "2024-10-08 23:37:26 +0700",
       "minecraft:frozen_river": "2024-09-19 21:54:32 +0700",
       "minecraft:jungle": "2024-09-12 22:42:23 +0700",
       "minecraft:ocean": "2024-09-13 21:26:19 +0700",
       "minecraft:sunflower_plains": "2024-09-12 21:30:46 +0700",
       "minecraft:cherry_grove": "2024-09-14 01:17:51 +0700",
       "minecraft:birch_forest": "2024-09-23 22:45:26 +0700",
+      "minecraft:windswept_hills": "2024-10-08 22:50:04 +0700",
       "minecraft:old_growth_spruce_taiga": "2024-09-27 01:01:52 +0700",
       "minecraft:snowy_beach": "2024-09-19 21:58:38 +0700",
       "minecraft:bamboo_jungle": "2024-09-12 22:26:55 +0700",
       "minecraft:windswept_savanna": "2024-09-30 00:31:21 +0700",
       "minecraft:deep_lukewarm_ocean": "2024-09-30 00:38:33 +0700",
+      "minecraft:badlands": "2024-10-08 23:29:28 +0700",
       "minecraft:flower_forest": "2024-09-28 22:25:19 +0700",
       "minecraft:savanna_plateau": "2024-09-12 21:54:24 +0700",
       "minecraft:beach": "2024-09-19 22:47:43 +0700",
@@ -41,7 +46,9 @@
       "minecraft:frozen_peaks": "2024-09-22 00:43:51 +0700",
       "minecraft:old_growth_birch_forest": "2024-09-23 22:45:27 +0700",
       "minecraft:deep_dark": "2024-09-12 22:33:00 +0700",
+      "minecraft:swamp": "2024-10-08 22:50:22 +0700",
       "minecraft:meadow": "2024-09-30 00:34:47 +0700",
+      "minecraft:windswept_gravelly_hills": "2024-10-08 22:50:06 +0700",
       "minecraft:savanna": "2024-09-12 21:33:00 +0700",
       "minecraft:plains": "2024-09-12 21:32:44 +0700"
     },
@@ -3838,6 +3845,60 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2024-10-04 19:34:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-10-08 23:41:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-10-08 23:21:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-08 23:41:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 23:31:42 +0700"
     },
     "done": true
   },

@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-09-14 22:51:29 +0700",
       "minecraft:snowy_slopes": "2024-09-13 22:03:53 +0700",
+      "minecraft:old_growth_pine_taiga": "2024-10-08 22:48:01 +0700",
       "minecraft:mushroom_fields": "2024-09-14 22:52:37 +0700",
       "minecraft:forest": "2024-09-12 21:36:00 +0700",
       "minecraft:taiga": "2024-09-26 23:56:13 +0700",
@@ -22,8 +23,11 @@
       "minecraft:sunflower_plains": "2024-09-12 21:29:37 +0700",
       "minecraft:cherry_grove": "2024-09-14 00:38:44 +0700",
       "minecraft:birch_forest": "2024-09-13 23:06:51 +0700",
+      "minecraft:windswept_hills": "2024-10-08 22:59:22 +0700",
       "minecraft:old_growth_spruce_taiga": "2024-09-17 00:59:31 +0700",
       "minecraft:bamboo_jungle": "2024-09-12 22:06:25 +0700",
+      "minecraft:windswept_savanna": "2024-10-08 23:09:26 +0700",
+      "minecraft:warm_ocean": "2024-10-08 23:54:30 +0700",
       "minecraft:deep_lukewarm_ocean": "2024-09-19 15:27:47 +0700",
       "minecraft:badlands": "2024-09-19 15:47:10 +0700",
       "minecraft:flower_forest": "2024-09-12 23:56:35 +0700",
@@ -39,7 +43,9 @@
       "minecraft:old_growth_birch_forest": "2024-09-13 22:44:31 +0700",
       "minecraft:deep_dark": "2024-09-12 22:26:59 +0700",
       "minecraft:grove": "2024-09-14 00:47:29 +0700",
+      "minecraft:swamp": "2024-10-08 22:50:19 +0700",
       "minecraft:meadow": "2024-09-19 15:01:36 +0700",
+      "minecraft:windswept_gravelly_hills": "2024-10-08 22:50:05 +0700",
       "minecraft:savanna": "2024-09-12 21:33:21 +0700",
       "minecraft:plains": "2024-09-12 21:33:11 +0700",
       "minecraft:jagged_peaks": "2024-09-14 00:46:57 +0700"
@@ -1329,6 +1335,7 @@
       "minecraft:zombified_piglin": "2024-09-14 21:56:59 +0700",
       "minecraft:witch": "2024-09-19 15:37:44 +0700",
       "minecraft:wither_skeleton": "2024-09-14 22:07:36 +0700",
+      "minecraft:husk": "2024-10-08 23:51:54 +0700",
       "minecraft:shulker": "2024-10-01 22:32:29 +0700",
       "minecraft:cave_spider": "2024-09-21 16:08:41 +0700",
       "minecraft:piglin": "2024-09-14 21:08:39 +0700",
@@ -5516,6 +5523,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2024-10-02 00:46:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-10-08 23:39:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2024-10-08 23:40:08 +0700"
     },
     "done": true
   },
